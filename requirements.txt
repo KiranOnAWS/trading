@@ -5,3 +5,5 @@ requests>=2.31.0
 pytz>=2024.1
 pyotp>=2.9.0
 python-dotenv>=1.0.0
+logzero>=1.7.0
+websocket-client>=1.8.0
